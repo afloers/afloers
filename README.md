@@ -22,8 +22,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-[<img align="left" alt="GitHub" width="26px" src="https://tardis-sn.github.io/gsoc/images/logo.png" />][tardis-sn]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/python/python-original.svg" />
+<img align="left" alt="Numpy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png" />
+<img align="left" alt="Pandas" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&usqp=CAU" />
 
 <br />
 <br />
