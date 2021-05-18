@@ -1,7 +1,8 @@
 ### I'm working on radiative transfer models of supernova explosions, studying the progenitors of thermonuclear supernovae.
 
 ## Astronomy
--  SNe Ia
+- Kilonovae and Neutron Star Mergers
+- SNe Ia
 - Stellar Evolution
 - White Dwarfs
 - Statistical Modelling
